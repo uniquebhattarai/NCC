@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/bin/Debug/net8.0/ActionDelegate_9
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/bin/Debug/net8.0/ActionDelegate_9.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/bin/Debug/net8.0/ActionDelegate_9.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/bin/Debug/net8.0/ActionDelegate_9.dll
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/bin/Debug/net8.0/ActionDelegate_9.pdb
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/obj/Debug/net8.0/ActionDelegate_9.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/obj/Debug/net8.0/ActionDelegate_9.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/obj/Debug/net8.0/ActionDelegate_9.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/obj/Debug/net8.0/ActionDelegate_9.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/obj/Debug/net8.0/ActionDelegate_9.dll
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/obj/Debug/net8.0/refint/ActionDelegate_9.dll
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/obj/Debug/net8.0/ActionDelegate_9.pdb
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/obj/Debug/net8.0/ActionDelegate_9.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/ActionDelegate_9/obj/Debug/net8.0/ref/ActionDelegate_9.dll

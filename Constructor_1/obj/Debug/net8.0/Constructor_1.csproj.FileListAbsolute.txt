@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/bin/Debug/net8.0/Constructor_1
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/bin/Debug/net8.0/Constructor_1.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/bin/Debug/net8.0/Constructor_1.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/bin/Debug/net8.0/Constructor_1.dll
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/bin/Debug/net8.0/Constructor_1.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/obj/Debug/net8.0/Constructor_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/obj/Debug/net8.0/Constructor_1.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/obj/Debug/net8.0/Constructor_1.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/obj/Debug/net8.0/Constructor_1.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/obj/Debug/net8.0/Constructor_1.dll
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/obj/Debug/net8.0/refint/Constructor_1.dll
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/obj/Debug/net8.0/Constructor_1.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/obj/Debug/net8.0/Constructor_1.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Constructor_1/obj/Debug/net8.0/ref/Constructor_1.dll

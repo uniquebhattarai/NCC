@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/bin/Debug/net8.0/Structure_8
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/bin/Debug/net8.0/Structure_8.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/bin/Debug/net8.0/Structure_8.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/bin/Debug/net8.0/Structure_8.dll
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/bin/Debug/net8.0/Structure_8.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/obj/Debug/net8.0/Structure_8.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/obj/Debug/net8.0/Structure_8.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/obj/Debug/net8.0/Structure_8.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/obj/Debug/net8.0/Structure_8.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/obj/Debug/net8.0/Structure_8.dll
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/obj/Debug/net8.0/refint/Structure_8.dll
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/obj/Debug/net8.0/Structure_8.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/obj/Debug/net8.0/Structure_8.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Structure_8/obj/Debug/net8.0/ref/Structure_8.dll

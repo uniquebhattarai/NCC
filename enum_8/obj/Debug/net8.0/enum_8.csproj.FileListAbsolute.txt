@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/bin/Debug/net8.0/enum_8
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/bin/Debug/net8.0/enum_8.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/bin/Debug/net8.0/enum_8.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/bin/Debug/net8.0/enum_8.dll
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/bin/Debug/net8.0/enum_8.pdb
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/obj/Debug/net8.0/enum_8.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/obj/Debug/net8.0/enum_8.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/obj/Debug/net8.0/enum_8.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/obj/Debug/net8.0/enum_8.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/obj/Debug/net8.0/enum_8.dll
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/obj/Debug/net8.0/refint/enum_8.dll
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/obj/Debug/net8.0/enum_8.pdb
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/obj/Debug/net8.0/enum_8.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/enum_8/obj/Debug/net8.0/ref/enum_8.dll

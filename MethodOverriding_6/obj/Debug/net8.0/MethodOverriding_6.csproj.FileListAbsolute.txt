@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/bin/Debug/net8.0/MethodOverriding_6
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/bin/Debug/net8.0/MethodOverriding_6.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/bin/Debug/net8.0/MethodOverriding_6.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/bin/Debug/net8.0/MethodOverriding_6.dll
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/bin/Debug/net8.0/MethodOverriding_6.pdb
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/obj/Debug/net8.0/MethodOverriding_6.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/obj/Debug/net8.0/MethodOverriding_6.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/obj/Debug/net8.0/MethodOverriding_6.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/obj/Debug/net8.0/MethodOverriding_6.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/obj/Debug/net8.0/MethodOverriding_6.dll
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/obj/Debug/net8.0/refint/MethodOverriding_6.dll
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/obj/Debug/net8.0/MethodOverriding_6.pdb
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/obj/Debug/net8.0/MethodOverriding_6.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/MethodOverriding_6/obj/Debug/net8.0/ref/MethodOverriding_6.dll

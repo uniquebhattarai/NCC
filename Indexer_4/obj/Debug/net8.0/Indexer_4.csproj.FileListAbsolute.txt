@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/bin/Debug/net8.0/Indexer_4
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/bin/Debug/net8.0/Indexer_4.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/bin/Debug/net8.0/Indexer_4.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/bin/Debug/net8.0/Indexer_4.dll
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/bin/Debug/net8.0/Indexer_4.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/obj/Debug/net8.0/Indexer_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/obj/Debug/net8.0/Indexer_4.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/obj/Debug/net8.0/Indexer_4.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/obj/Debug/net8.0/Indexer_4.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/obj/Debug/net8.0/Indexer_4.dll
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/obj/Debug/net8.0/refint/Indexer_4.dll
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/obj/Debug/net8.0/Indexer_4.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/obj/Debug/net8.0/Indexer_4.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Indexer_4/obj/Debug/net8.0/ref/Indexer_4.dll

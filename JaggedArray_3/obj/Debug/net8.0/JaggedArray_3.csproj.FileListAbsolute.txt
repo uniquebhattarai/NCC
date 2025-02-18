@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/bin/Debug/net8.0/JaggedArray_3
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/bin/Debug/net8.0/JaggedArray_3.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/bin/Debug/net8.0/JaggedArray_3.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/bin/Debug/net8.0/JaggedArray_3.dll
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/bin/Debug/net8.0/JaggedArray_3.pdb
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/obj/Debug/net8.0/JaggedArray_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/obj/Debug/net8.0/JaggedArray_3.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/obj/Debug/net8.0/JaggedArray_3.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/obj/Debug/net8.0/JaggedArray_3.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/obj/Debug/net8.0/JaggedArray_3.dll
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/obj/Debug/net8.0/refint/JaggedArray_3.dll
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/obj/Debug/net8.0/JaggedArray_3.pdb
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/obj/Debug/net8.0/JaggedArray_3.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/JaggedArray_3/obj/Debug/net8.0/ref/JaggedArray_3.dll

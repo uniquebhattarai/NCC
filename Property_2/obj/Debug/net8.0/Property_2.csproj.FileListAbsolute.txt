@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/obj/Debug/net8.0/Property_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/obj/Debug/net8.0/Property_2.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/obj/Debug/net8.0/Property_2.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/obj/Debug/net8.0/Property_2.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/bin/Debug/net8.0/Property_2
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/bin/Debug/net8.0/Property_2.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/bin/Debug/net8.0/Property_2.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/bin/Debug/net8.0/Property_2.dll
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/bin/Debug/net8.0/Property_2.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/obj/Debug/net8.0/Property_2.dll
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/obj/Debug/net8.0/refint/Property_2.dll
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/obj/Debug/net8.0/Property_2.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/obj/Debug/net8.0/Property_2.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Property_2/obj/Debug/net8.0/ref/Property_2.dll

@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/bin/Debug/net8.0/Abstractclass_7
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/bin/Debug/net8.0/Abstractclass_7.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/bin/Debug/net8.0/Abstractclass_7.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/bin/Debug/net8.0/Abstractclass_7.dll
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/bin/Debug/net8.0/Abstractclass_7.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/obj/Debug/net8.0/Abstractclass_7.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/obj/Debug/net8.0/Abstractclass_7.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/obj/Debug/net8.0/Abstractclass_7.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/obj/Debug/net8.0/Abstractclass_7.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/obj/Debug/net8.0/Abstractclass_7.dll
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/obj/Debug/net8.0/refint/Abstractclass_7.dll
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/obj/Debug/net8.0/Abstractclass_7.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/obj/Debug/net8.0/Abstractclass_7.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Abstractclass_7/obj/Debug/net8.0/ref/Abstractclass_7.dll

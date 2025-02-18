@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/obj/Debug/net8.0/Base_Class_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/obj/Debug/net8.0/Base_Class_5.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/obj/Debug/net8.0/Base_Class_5.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/obj/Debug/net8.0/Base_Class_5.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/bin/Debug/net8.0/Base_Class_5
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/bin/Debug/net8.0/Base_Class_5.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/bin/Debug/net8.0/Base_Class_5.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/bin/Debug/net8.0/Base_Class_5.dll
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/bin/Debug/net8.0/Base_Class_5.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/obj/Debug/net8.0/Base_Class_5.dll
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/obj/Debug/net8.0/refint/Base_Class_5.dll
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/obj/Debug/net8.0/Base_Class_5.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/obj/Debug/net8.0/Base_Class_5.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Base_Class_5/obj/Debug/net8.0/ref/Base_Class_5.dll

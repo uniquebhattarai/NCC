@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/bin/Debug/net8.0/Interfaces_7
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/bin/Debug/net8.0/Interfaces_7.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/bin/Debug/net8.0/Interfaces_7.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/bin/Debug/net8.0/Interfaces_7.dll
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/bin/Debug/net8.0/Interfaces_7.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/obj/Debug/net8.0/Interfaces_7.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/obj/Debug/net8.0/Interfaces_7.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/obj/Debug/net8.0/Interfaces_7.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/obj/Debug/net8.0/Interfaces_7.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/obj/Debug/net8.0/Interfaces_7.dll
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/obj/Debug/net8.0/refint/Interfaces_7.dll
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/obj/Debug/net8.0/Interfaces_7.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/obj/Debug/net8.0/Interfaces_7.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Interfaces_7/obj/Debug/net8.0/ref/Interfaces_7.dll

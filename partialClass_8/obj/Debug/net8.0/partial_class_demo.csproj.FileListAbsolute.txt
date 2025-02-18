@@ -1,0 +1,28 @@
+/home/uniq/Desktop/dot net/partial_class_demo/bin/Debug/net8.0/partial_class_demo
+/home/uniq/Desktop/dot net/partial_class_demo/bin/Debug/net8.0/partial_class_demo.deps.json
+/home/uniq/Desktop/dot net/partial_class_demo/bin/Debug/net8.0/partial_class_demo.runtimeconfig.json
+/home/uniq/Desktop/dot net/partial_class_demo/bin/Debug/net8.0/partial_class_demo.dll
+/home/uniq/Desktop/dot net/partial_class_demo/bin/Debug/net8.0/partial_class_demo.pdb
+/home/uniq/Desktop/dot net/partial_class_demo/obj/Debug/net8.0/partial_class_demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/dot net/partial_class_demo/obj/Debug/net8.0/partial_class_demo.AssemblyInfoInputs.cache
+/home/uniq/Desktop/dot net/partial_class_demo/obj/Debug/net8.0/partial_class_demo.AssemblyInfo.cs
+/home/uniq/Desktop/dot net/partial_class_demo/obj/Debug/net8.0/partial_class_demo.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/dot net/partial_class_demo/obj/Debug/net8.0/partial_class_demo.dll
+/home/uniq/Desktop/dot net/partial_class_demo/obj/Debug/net8.0/refint/partial_class_demo.dll
+/home/uniq/Desktop/dot net/partial_class_demo/obj/Debug/net8.0/partial_class_demo.pdb
+/home/uniq/Desktop/dot net/partial_class_demo/obj/Debug/net8.0/partial_class_demo.genruntimeconfig.cache
+/home/uniq/Desktop/dot net/partial_class_demo/obj/Debug/net8.0/ref/partial_class_demo.dll
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/bin/Debug/net8.0/partial_class_demo
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/bin/Debug/net8.0/partial_class_demo.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/bin/Debug/net8.0/partial_class_demo.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/bin/Debug/net8.0/partial_class_demo.dll
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/bin/Debug/net8.0/partial_class_demo.pdb
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/obj/Debug/net8.0/partial_class_demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/obj/Debug/net8.0/partial_class_demo.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/obj/Debug/net8.0/partial_class_demo.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/obj/Debug/net8.0/partial_class_demo.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/obj/Debug/net8.0/partial_class_demo.dll
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/obj/Debug/net8.0/refint/partial_class_demo.dll
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/obj/Debug/net8.0/partial_class_demo.pdb
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/obj/Debug/net8.0/partial_class_demo.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/partialClass_8/obj/Debug/net8.0/ref/partial_class_demo.dll

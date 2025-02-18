@@ -1,0 +1,14 @@
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/bin/Debug/net8.0/Multiple_Inheritance
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/bin/Debug/net8.0/Multiple_Inheritance.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/bin/Debug/net8.0/Multiple_Inheritance.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/bin/Debug/net8.0/Multiple_Inheritance.dll
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/bin/Debug/net8.0/Multiple_Inheritance.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/obj/Debug/net8.0/Multiple_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/obj/Debug/net8.0/Multiple_Inheritance.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/obj/Debug/net8.0/Multiple_Inheritance.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/obj/Debug/net8.0/Multiple_Inheritance.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/obj/Debug/net8.0/Multiple_Inheritance.dll
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/obj/Debug/net8.0/refint/Multiple_Inheritance.dll
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/obj/Debug/net8.0/Multiple_Inheritance.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/obj/Debug/net8.0/Multiple_Inheritance.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Multiple_Inheritance/obj/Debug/net8.0/ref/Multiple_Inheritance.dll
