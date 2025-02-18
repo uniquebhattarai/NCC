@@ -1,0 +1,15 @@
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/bin/Debug/net8.0/lambdaExpression_14
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/bin/Debug/net8.0/lambdaExpression_14.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/bin/Debug/net8.0/lambdaExpression_14.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/bin/Debug/net8.0/lambdaExpression_14.dll
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/bin/Debug/net8.0/lambdaExpression_14.pdb
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/lambdaExpression_14.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/lambdaExpression_14.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/lambdaExpression_14.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/lambdaExpression_14.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/lambdaExpression_14.sourcelink.json
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/lambdaExpression_14.dll
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/refint/lambdaExpression_14.dll
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/lambdaExpression_14.pdb
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/lambdaExpression_14.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/lambdaExpression_14/obj/Debug/net8.0/ref/lambdaExpression_14.dll
