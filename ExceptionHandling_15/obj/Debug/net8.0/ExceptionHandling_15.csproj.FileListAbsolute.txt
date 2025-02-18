@@ -1,0 +1,15 @@
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/bin/Debug/net8.0/ExceptionHandling_15
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/bin/Debug/net8.0/ExceptionHandling_15.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/bin/Debug/net8.0/ExceptionHandling_15.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/bin/Debug/net8.0/ExceptionHandling_15.dll
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/bin/Debug/net8.0/ExceptionHandling_15.pdb
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/ExceptionHandling_15.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/ExceptionHandling_15.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/ExceptionHandling_15.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/ExceptionHandling_15.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/ExceptionHandling_15.sourcelink.json
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/ExceptionHandling_15.dll
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/refint/ExceptionHandling_15.dll
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/ExceptionHandling_15.pdb
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/ExceptionHandling_15.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/ExceptionHandling_15/obj/Debug/net8.0/ref/ExceptionHandling_15.dll
