@@ -1,0 +1,15 @@
+/home/uniq/Desktop/UniqueNCCLAB/Generic/bin/Debug/net8.0/Generic
+/home/uniq/Desktop/UniqueNCCLAB/Generic/bin/Debug/net8.0/Generic.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Generic/bin/Debug/net8.0/Generic.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Generic/bin/Debug/net8.0/Generic.dll
+/home/uniq/Desktop/UniqueNCCLAB/Generic/bin/Debug/net8.0/Generic.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/Generic.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/Generic.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/Generic.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/Generic.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/Generic.sourcelink.json
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/Generic.dll
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/refint/Generic.dll
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/Generic.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/Generic.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Generic/obj/Debug/net8.0/ref/Generic.dll
