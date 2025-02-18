@@ -1,0 +1,15 @@
+/home/uniq/Desktop/UniqueNCCLAB/File_12/bin/Debug/net8.0/File_12
+/home/uniq/Desktop/UniqueNCCLAB/File_12/bin/Debug/net8.0/File_12.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/File_12/bin/Debug/net8.0/File_12.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/File_12/bin/Debug/net8.0/File_12.dll
+/home/uniq/Desktop/UniqueNCCLAB/File_12/bin/Debug/net8.0/File_12.pdb
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/File_12.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/File_12.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/File_12.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/File_12.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/File_12.sourcelink.json
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/File_12.dll
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/refint/File_12.dll
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/File_12.pdb
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/File_12.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/File_12/obj/Debug/net8.0/ref/File_12.dll
