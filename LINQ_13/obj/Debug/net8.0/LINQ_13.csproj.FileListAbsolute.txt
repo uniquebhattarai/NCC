@@ -1,0 +1,15 @@
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/bin/Debug/net8.0/LINQ_13
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/bin/Debug/net8.0/LINQ_13.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/bin/Debug/net8.0/LINQ_13.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/bin/Debug/net8.0/LINQ_13.dll
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/bin/Debug/net8.0/LINQ_13.pdb
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/LINQ_13.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/LINQ_13.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/LINQ_13.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/LINQ_13.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/LINQ_13.sourcelink.json
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/LINQ_13.dll
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/refint/LINQ_13.dll
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/LINQ_13.pdb
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/LINQ_13.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/LINQ_13/obj/Debug/net8.0/ref/LINQ_13.dll
