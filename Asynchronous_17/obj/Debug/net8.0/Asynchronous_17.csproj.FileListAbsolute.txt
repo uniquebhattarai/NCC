@@ -1,0 +1,15 @@
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/bin/Debug/net8.0/Asynchronous_17
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/bin/Debug/net8.0/Asynchronous_17.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/bin/Debug/net8.0/Asynchronous_17.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/bin/Debug/net8.0/Asynchronous_17.dll
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/bin/Debug/net8.0/Asynchronous_17.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/Asynchronous_17.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/Asynchronous_17.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/Asynchronous_17.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/Asynchronous_17.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/Asynchronous_17.sourcelink.json
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/Asynchronous_17.dll
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/refint/Asynchronous_17.dll
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/Asynchronous_17.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/Asynchronous_17.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Asynchronous_17/obj/Debug/net8.0/ref/Asynchronous_17.dll
