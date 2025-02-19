@@ -3,24 +3,33 @@ namespace Indexer_4
 {
     class StringIndexer{
         class People{
-            private string[] Names = new string[3];
+           private Dictionary<string, string> names = new Dictionary<string, string>();
 
-            public string this[int i]
+        public string this[string key] // String-based indexer
+        {
+            get 
             {
-                get { return Names[i]; }
-                set { Names[i]=value; }
+                return names.ContainsKey(key) ? names[key] : "Not Found";
             }
+            set { names[key] = value; }
+        }
 
         }
         static void Main(string[] args){
             People p1 = new People();
-            p1[0]="Steven Gerrad";
-            p1[1]="Mohamad salah";
-            p1[2]="Luiz suarez";
+             p1["Captain"] = "Steven Gerrard";
+           p1["Winger"] = "Mohamed Salah";
+           p1["Striker"] = "Luis Suárez";
 
-            for(int i=0;i<3;i++){
-                System.Console.WriteLine(p1[i]);
-            }
+            Console.WriteLine( p1["Captain"]);
+            Console.WriteLine( p1["Winger"]);
+            Console.WriteLine( p1["Striker"]);
+            
+            System.Console.WriteLine("\nLab No:4");
+        System.Console.WriteLine("Name:Unique Bhattarai");
+        System.Console.WriteLine("RollNo:9");
+       
         }
+        
     }
 }
