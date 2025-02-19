@@ -1,0 +1,15 @@
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/bin/Debug/net8.0/Attribute_16
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/bin/Debug/net8.0/Attribute_16.deps.json
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/bin/Debug/net8.0/Attribute_16.runtimeconfig.json
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/bin/Debug/net8.0/Attribute_16.dll
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/bin/Debug/net8.0/Attribute_16.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/Attribute_16.GeneratedMSBuildEditorConfig.editorconfig
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/Attribute_16.AssemblyInfoInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/Attribute_16.AssemblyInfo.cs
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/Attribute_16.csproj.CoreCompileInputs.cache
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/Attribute_16.sourcelink.json
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/Attribute_16.dll
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/refint/Attribute_16.dll
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/Attribute_16.pdb
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/Attribute_16.genruntimeconfig.cache
+/home/uniq/Desktop/UniqueNCCLAB/Attribute_16/obj/Debug/net8.0/ref/Attribute_16.dll
